@@ -101,7 +101,7 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 |--------|-------|
 | Totalt antal prompter | **83** |
 | Utvald | **12** |
-| Senast uppdaterad | **söndag 26 juli 2026 kl. 20:54:48 UTC** |
+| Senast uppdaterad | **måndag 27 juli 2026 kl. 02:36:21 UTC** |
 
 </div>
 
@@ -4486,6 +4486,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Skicka prompt](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Stjärnmärk repot](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-26T20:54:48.127Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-07-27T02:36:21.324Z</sub>
 
 </div>
