@@ -101,7 +101,7 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 |--------|-------|
 | Prompts i alt | **83** |
 | Udvalgt | **12** |
-| Sidst opdateret | **mandag den 27. juli 2026 kl. 14.25.47 UTC** |
+| Sidst opdateret | **mandag den 27. juli 2026 kl. 17.39.43 UTC** |
 
 </div>
 
@@ -4486,6 +4486,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Indsend prompt](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Giv repoet en Star](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-27T14:25:47.770Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-07-27T17:39:43.728Z</sub>
 
 </div>
