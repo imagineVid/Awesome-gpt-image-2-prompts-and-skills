@@ -5236,5 +5236,751 @@
       ]
     },
     "sort": 83
+  },
+  {
+    "id": 84,
+    "model": "gpt-image-2",
+    "title": "1 – Windy Meadow Portrait - fine-art portrait of",
+    "description": "A source-backed image prompt for structured visual communication, readable text, and layout-controlled generation.",
+    "content": "1 – Windy Meadow Portrait Ultra-realistic cinematic fine-art portrait of a young woman with short tousled dark hair and soft freckles, wearing a thick knitted brown sweater with a textured wool scarf, standing in a windswept wildflower meadow, eyes gently closed, soft wind blowing loose strands of hair across her face, muted earthy color palette, overcast sky, shallow depth of field, creamy foreground bokeh with yellow wildflowers, natural skin texture, subtle Kodak Portra 400 film colors, soft atmospheric haze, captured on a Leica M11, 50mm Summilux f/1.4, analog film grain, poetic storytelling composition, photorealistic, 8K. Prompt 2 – Autumn Wildflowers Dreamy cinematic portrait of a young woman with shoulder-length chestnut hair standing among blooming autumn wildflowers, wearing a rust-colored linen dress with a high ruffled collar, soft contemplative expression, misty countryside, gentle breeze moving her hair, creamy floral foreground bokeh, warm muted oranges and soft greens, Kodak Gold 200 film aesthetic, natural light, realistic skin texture, ultra-shallow depth of field, captured on a Canon EOS R5, 85mm f/1.2L, analog film grain, ethereal editorial photography, photorealistic, 8K. Prompt 3 – Foggy Morning Portrait Atmospheric cinematic portrait of a young woman with dark wavy hair and pale green eyes, wrapped in a textured brown wool coat, standing in dense morning fog, wind softly lifting strands of hair, melancholy expression, minimalist misty landscape, cool blue-gray tones, soft diffused natural light, cinematic haze, realistic freckles and skin texture, Kodak Vision3 film look, captured on a Sony A7R V, 135mm GM f/1.8, extremely shallow depth of field, fine analog grain, timeless fine-art portrait, photorealistic, HDR, 8K. Prompt 4 – Golden Hour Light Luxury cinematic portrait of a young red-haired woman with soft freckles looking upward into warm golden sunlight, loose windswept hair glowing with backlight, wearing a dark wool coat, dramatic sun rays, soft lens flare, golden-hour atmosphere beside a quiet lake, warm amber highlights balanced with cool shadows, Leica natural color science, realistic skin texture, creamy background bokeh, captured on a Nikon Z8, 105mm f/1.4, ultra-shallow depth of field, Kodak Portra 800 film grading, fine film grain, editorial fine-art photography, photorealistic, 8K.",
+    "sourceLink": "https://x.com/Taaruk_/status/2081597935947792465",
+    "sourcePublishedAt": "2026-07-27T04:29:56.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HONSP4QasAAe5Fc.jpg",
+      "https://pbs.twimg.com/media/HONSQpba4AAi3wS.jpg",
+      "https://pbs.twimg.com/media/HONSRewawAA-diz.jpg",
+      "https://pbs.twimg.com/media/HONSSN7bQAAq_E5.jpg"
+    ],
+    "author": {
+      "name": "Taaruk",
+      "link": "https://x.com/Taaruk_"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 84,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2081597935947792465",
+      "model_evidence": "gpt-image-2",
+      "collected_at": "2026-07-27",
+      "curation_note": "Passed explicit prompt, source attribution, media availability, duplicate, and editorial-value review.",
+      "prompt_source": "tweet_text_prompt_normalized",
+      "retweetCount": 0,
+      "replyCount": 12,
+      "likeCount": 19,
+      "quoteCount": 0,
+      "viewCount": 344,
+      "bookmarkCount": 4
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 17,
+          "title": "Infographic & Typography",
+          "slug": "infographic-typography"
+        }
+      ],
+      "styles": [
+        {
+          "id": 43,
+          "title": "Editorial Poster",
+          "slug": "editorial-poster"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 59,
+          "title": "Marketing Layout",
+          "slug": "marketing-layout"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 66,
+          "title": {
+            "en": "Benchmarks & Model Comparisons",
+            "zh": "基准测试与模型对比",
+            "zh-TW": "基準測試與模型比較",
+            "ja-JP": "ベンチマークとモデル比較",
+            "ko-KR": "벤치마크 및 모델 비교",
+            "es-ES": "Pruebas y comparativas de modelos",
+            "es-419": "Pruebas y comparaciones de modelos",
+            "de-DE": "Benchmarks und Modellvergleiche",
+            "fr-FR": "Évaluations et comparaisons de modèles",
+            "it-IT": "Benchmark e confronti tra modelli",
+            "pt-BR": "Benchmarks e comparações de modelos",
+            "pt-PT": "Testes e comparações de modelos",
+            "vi-VN": "Đánh giá chuẩn và so sánh mô hình",
+            "th-TH": "การทดสอบมาตรฐานและเปรียบเทียบโมเดล",
+            "hi-IN": "बेंचमार्क और मॉडल तुलना",
+            "tr-TR": "Karşılaştırmalar ve model kıyaslamaları"
+          },
+          "slug": "benchmarks-model-comparisons"
+        }
+      ]
+    }
+  },
+  {
+    "id": 85,
+    "model": "gpt-image-2",
+    "title": "A RAW, - smartphone photo of a beautiful young",
+    "description": "A source-backed image prompt for structured visual communication, readable text, and layout-controlled generation.",
+    "content": "A RAW, ultra-realistic smartphone photo of a beautiful young Asian woman standing naturally in a modern home kitchen. She has fair porcelain skin, large dark brown eyes, a small straight nose, naturally soft pink lips, and an oval face with delicate features. Her dark brown hair is loosely tied back in a low ponytail with soft wispy curtain bangs framing her face. She wears a fitted heather-gray spaghetti-strap crop camisole and a light pink digital sports watch on her left wrist. She casually holds a white ceramic bowl filled with dark soup in one hand and a stainless-steel soup ladle with a mint-green handle in the other. She looks directly into the camera with a gentle, relaxed smile and a calm expression. The kitchen features white tiled walls, a clean countertop, a stainless-steel range hood, and everyday cooking utensils, creating a realistic lived-in environment. Captured as if a friend quickly snapped the photo using a modern smartphone. Slight handheld framing, subtle perspective distortion from a 26mm equivalent mobile lens, natural indoor ambient lighting, soft shadows, realistic skin texture, tiny sensor noise, HDR processing, automatic white balance, authentic exposure, shallow computational depth of field, casual composition, unposed lifestyle photography, imperfect framing, extremely photorealistic, RAW mobile camera quality, no beauty filters, no AI look, no studio lighting, high detail, 8K.",
+    "sourceLink": "https://x.com/saniaspeaks_/status/2081582536929747148",
+    "sourcePublishedAt": "2026-07-27T03:28:45.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HONERGPbwAAmYrN.jpg",
+      "https://pbs.twimg.com/media/HONERrAbAAAjzS8.jpg"
+    ],
+    "author": {
+      "name": "𝗦𝗮𝗻𝗶𝗮",
+      "link": "https://x.com/saniaspeaks_"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 85,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2081582536929747148",
+      "model_evidence": "gpt-image-2",
+      "collected_at": "2026-07-27",
+      "curation_note": "Passed explicit prompt, source attribution, media availability, duplicate, and editorial-value review.",
+      "prompt_source": "tweet_text_prompt_normalized",
+      "retweetCount": 6,
+      "replyCount": 41,
+      "likeCount": 66,
+      "quoteCount": 0,
+      "viewCount": 838,
+      "bookmarkCount": 10
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 17,
+          "title": "Infographic & Typography",
+          "slug": "infographic-typography"
+        }
+      ],
+      "styles": [
+        {
+          "id": 43,
+          "title": "Editorial Poster",
+          "slug": "editorial-poster"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 59,
+          "title": "Marketing Layout",
+          "slug": "marketing-layout"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 61,
+          "title": {
+            "en": "Directed Editing & Input Control",
+            "zh": "定向编辑与输入控制",
+            "zh-TW": "定向編輯與輸入控制",
+            "ja-JP": "指示編集と入力制御",
+            "ko-KR": "지정 편집 및 입력 제어",
+            "es-ES": "Edición dirigida y control de entrada",
+            "es-419": "Edición dirigida y control de entrada",
+            "de-DE": "Gezielte Bearbeitung und Eingabesteuerung",
+            "fr-FR": "Édition ciblée et contrôle des entrées",
+            "it-IT": "Modifica mirata e controllo degli input",
+            "pt-BR": "Edição direcionada e controle de entrada",
+            "pt-PT": "Edição orientada e controlo de entrada",
+            "vi-VN": "Chỉnh sửa có định hướng và kiểm soát đầu vào",
+            "th-TH": "การแก้ไขแบบกำหนดเป้าหมายและควบคุมอินพุต",
+            "hi-IN": "निर्देशित संपादन और इनपुट नियंत्रण",
+            "tr-TR": "Yönlendirilmiş düzenleme ve girdi kontrolü"
+          },
+          "slug": "directed-editing-input-control"
+        }
+      ]
+    }
+  },
+  {
+    "id": 86,
+    "model": "gpt-image-2",
+    "title": "Use the uploaded reference image as the strict identity",
+    "description": "A source-backed image prompt for structured visual communication, readable text, and layout-controlled generation.",
+    "content": "Use the uploaded reference image as the strict identity reference. Preserve the girl’s facial identity exactly as shown in the reference image. Do not alter her facial structure, facial proportions, eye shape, nose, lips, jawline, skin tone, expression, or any defining facial features. She must be instantly recognizable as the same person from the reference. Keep her hairstyle, hair color, and overall facial characteristics consistent with the reference unless explicitly changed below. Create an ultra-realistic close-up beauty portrait of the same girl from the reference. She has long, sleek black hair gracefully framing her face while she partially hides behind her shoulder, creating a natural, elegant pose. She makes intense eye contact with the camera, conveying quiet confidence and sophistication. Her makeup is refined and editorial, featuring softly defined brows matching the reference, subtle winged eyeliner, naturally long eyelashes, delicate soft pink blush, luminous glowing skin with realistic pores, and naturally glossy lips. She wears a minimal outfit with a thin shoulder strap to keep the focus on her face. The lighting is soft and cinematic with warm tones, set against a dark, moody background with a shallow depth of field. Captured as high-end editorial fashion photography using an 85mm lens, featuring ultra-realistic skin texture, subtle film grain, exceptional facial detail, and an authentic luxury beauty campaign aesthetic in 8K resolution.",
+    "sourceLink": "https://x.com/mehvishs25/status/2081574705631515085",
+    "sourcePublishedAt": "2026-07-27T02:57:38.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HOM9JEgbkAAxO9b.jpg",
+      "https://pbs.twimg.com/media/HOM9KAPawAA1yZ3.jpg"
+    ],
+    "author": {
+      "name": "Meem",
+      "link": "https://x.com/mehvishs25"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 86,
+    "needReferenceImages": true,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2081574705631515085",
+      "model_evidence": "gpt-image-2",
+      "collected_at": "2026-07-27",
+      "curation_note": "Passed explicit prompt, source attribution, media availability, duplicate, and editorial-value review.",
+      "prompt_source": "tweet_text_prompt_normalized",
+      "retweetCount": 1,
+      "replyCount": 11,
+      "likeCount": 24,
+      "quoteCount": 0,
+      "viewCount": 377,
+      "bookmarkCount": 6
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 17,
+          "title": "Infographic & Typography",
+          "slug": "infographic-typography"
+        }
+      ],
+      "styles": [
+        {
+          "id": 43,
+          "title": "Editorial Poster",
+          "slug": "editorial-poster"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 59,
+          "title": "Marketing Layout",
+          "slug": "marketing-layout"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 62,
+          "title": {
+            "en": "Commercial Design, UI & Posters",
+            "zh": "商业设计、UI 与海报",
+            "zh-TW": "商業設計、UI 與海報",
+            "ja-JP": "商用デザイン・UI・ポスター",
+            "ko-KR": "상업 디자인, UI 및 포스터",
+            "es-ES": "Diseño comercial, UI y carteles",
+            "es-419": "Diseño comercial, UI y pósteres",
+            "de-DE": "Kommerzielles Design, UI und Poster",
+            "fr-FR": "Design commercial, UI et affiches",
+            "it-IT": "Design commerciale, UI e poster",
+            "pt-BR": "Design comercial, UI e pôsteres",
+            "pt-PT": "Design comercial, UI e cartazes",
+            "vi-VN": "Thiết kế thương mại, UI và áp phích",
+            "th-TH": "งานออกแบบเชิงพาณิชย์ UI และโปสเตอร์",
+            "hi-IN": "व्यावसायिक डिज़ाइन, UI और पोस्टर",
+            "tr-TR": "Ticari tasarım, arayüz ve posterler"
+          },
+          "slug": "commercial-design-ui-posters"
+        }
+      ]
+    }
+  },
+  {
+    "id": 87,
+    "model": "gpt-image-2",
+    "title": "A beautiful young Italian woman with olive-fair skin, warm",
+    "description": "A source-backed community image prompt rewritten into a reusable production brief with concrete visual direction.",
+    "content": "Create a beautiful young Italian woman with olive-fair skin, warm brown eyes, and curly dark bob hair. She wears a luxurious terracotta linen dress with embroidered sleeves, vintage pearl earrings, and a cream head scarf. She is laughing while holding an avocado green rotary telephone beside an old marble kitchen counter filled with fresh lemons, herbs, espresso cups, and handmade pasta. Background features colorful ceramic tiles, rustic wooden shelves, Mediterranean sunlight, and warm earthy tones. Luxury lifestyle editorial, Dolce Vita aesthetic, cinematic realism, Leica photography, ultra photorealistic.",
+    "sourceLink": "https://x.com/hey_am_cherry/status/2081587013648846994",
+    "sourcePublishedAt": "2026-07-27T03:46:32.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HONIMn7bMAE1W7F.png",
+      "https://pbs.twimg.com/media/HONIQoTbYAACslc.jpg"
+    ],
+    "author": {
+      "name": "Cherry",
+      "link": "https://x.com/hey_am_cherry"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 87,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2081587013648846994",
+      "model_evidence": "gpt-image-2",
+      "collected_at": "2026-07-27",
+      "curation_note": "Passed explicit prompt, source attribution, media availability, duplicate, and editorial-value review.",
+      "prompt_source": "tweet_text_prompt_normalized",
+      "retweetCount": 1,
+      "replyCount": 16,
+      "likeCount": 19,
+      "quoteCount": 0,
+      "viewCount": 171,
+      "bookmarkCount": 1
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 17,
+          "title": "Infographic & Typography",
+          "slug": "infographic-typography"
+        }
+      ],
+      "styles": [
+        {
+          "id": 43,
+          "title": "Editorial Poster",
+          "slug": "editorial-poster"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 59,
+          "title": "Marketing Layout",
+          "slug": "marketing-layout"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 63,
+          "title": {
+            "en": "Diagrams, Technical Art & Storyboards",
+            "zh": "图表、技术视觉与分镜",
+            "zh-TW": "圖表、技術視覺與分鏡",
+            "ja-JP": "図解・技術ビジュアル・絵コンテ",
+            "ko-KR": "다이어그램, 기술 시각화 및 스토리보드",
+            "es-ES": "Diagramas, arte técnico y guiones gráficos",
+            "es-419": "Diagramas, arte técnico y storyboards",
+            "de-DE": "Diagramme, technische Visuals und Storyboards",
+            "fr-FR": "Diagrammes, visuels techniques et storyboards",
+            "it-IT": "Diagrammi, grafica tecnica e storyboard",
+            "pt-BR": "Diagramas, arte técnica e storyboards",
+            "pt-PT": "Diagramas, arte técnica e storyboards",
+            "vi-VN": "Sơ đồ, hình ảnh kỹ thuật và bảng phân cảnh",
+            "th-TH": "ไดอะแกรม ภาพเทคนิค และสตอรีบอร์ด",
+            "hi-IN": "आरेख, तकनीकी दृश्य और स्टोरीबोर्ड",
+            "tr-TR": "Diyagramlar, teknik görseller ve storyboardlar"
+          },
+          "slug": "diagrams-technical-storyboards"
+        }
+      ]
+    }
+  },
+  {
+    "id": 88,
+    "model": "gpt-image-2",
+    "title": "️⬇️⬇️ A serene pre-dawn photograph of a young Japanese",
+    "description": "A source-backed image prompt for structured visual communication, readable text, and layout-controlled generation.",
+    "content": "️⬇️⬇️ A serene pre-dawn photograph of a young Japanese woman, around 20 years old, standing alone in the empty Piazza del Duomo in Milan just before sunrise, the cathedral's Gothic spires silhouetted against a deep cobalt-blue sky, no other people in sight. Her face shows classic Japanese features — soft oval shape, gentle almond eyes with a calm, introspective gaze, natural pink lips. Her skin, fair with a cool undertone, shows realistic subsurface scattering under the pre-dawn ambient light, subtle specular highlights on her cheekbones, natural pore texture preserved. Her hair is straight and sleek, worn down past her shoulders, with one or two strands displaced by the cool early breeze. She wears a tailored charcoal wool coat over a minimalist slip dress, hands tucked into her pockets against the morning chill. The lighting is the deep cobalt blue-hour glow before sunrise, cool and even with no directional shadow, the cathedral's white marble taking on a faint blue luminescence. Subtle ISO 400 film grain sits in the shadow areas. Aspect ratio 2:3. No watermark, no text overlay, not cartoon, not illustration, not anime.",
+    "sourceLink": "https://x.com/ToroJushiAi/status/2081590406375170445",
+    "sourcePublishedAt": "2026-07-27T04:00:01.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HOGLhJMWUAA9wfD.jpg",
+      "https://pbs.twimg.com/media/HOGLhLYXoAAS87r.jpg",
+      "https://pbs.twimg.com/media/HOGLhJOWgAAZDwO.jpg",
+      "https://pbs.twimg.com/media/HOGLhJOXUAAtW1v.jpg"
+    ],
+    "author": {
+      "name": "ToroJushiAi",
+      "link": "https://x.com/ToroJushiAi"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 88,
+    "needReferenceImages": true,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2081590406375170445",
+      "model_evidence": "gpt-image-2",
+      "collected_at": "2026-07-27",
+      "curation_note": "Passed explicit prompt, source attribution, media availability, duplicate, and editorial-value review.",
+      "prompt_source": "tweet_text_prompt_normalized",
+      "retweetCount": 0,
+      "replyCount": 1,
+      "likeCount": 4,
+      "quoteCount": 0,
+      "viewCount": 161,
+      "bookmarkCount": 2
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 17,
+          "title": "Infographic & Typography",
+          "slug": "infographic-typography"
+        }
+      ],
+      "styles": [
+        {
+          "id": 43,
+          "title": "Editorial Poster",
+          "slug": "editorial-poster"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 59,
+          "title": "Marketing Layout",
+          "slug": "marketing-layout"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 64,
+          "title": {
+            "en": "Characters, Cinema & Visual Styles",
+            "zh": "角色、电影感与视觉风格",
+            "zh-TW": "角色、電影感與視覺風格",
+            "ja-JP": "キャラクター・映画表現・ビジュアルスタイル",
+            "ko-KR": "캐릭터, 시네마 및 비주얼 스타일",
+            "es-ES": "Personajes, cine y estilos visuales",
+            "es-419": "Personajes, cine y estilos visuales",
+            "de-DE": "Charaktere, Kino und visuelle Stile",
+            "fr-FR": "Personnages, cinéma et styles visuels",
+            "it-IT": "Personaggi, cinema e stili visivi",
+            "pt-BR": "Personagens, cinema e estilos visuais",
+            "pt-PT": "Personagens, cinema e estilos visuais",
+            "vi-VN": "Nhân vật, điện ảnh và phong cách hình ảnh",
+            "th-TH": "ตัวละคร ภาพยนตร์ และสไตล์ภาพ",
+            "hi-IN": "पात्र, सिनेमा और दृश्य शैलियां",
+            "tr-TR": "Karakterler, sinema ve görsel stiller"
+          },
+          "slug": "characters-cinema-visual-styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": 89,
+    "model": "gpt-image-2",
+    "title": "Strictly preserve the appearance 1:1 from the uploaded reference",
+    "description": "A source-backed image prompt for structured visual communication, readable text, and layout-controlled generation.",
+    "content": "Strictly preserve the appearance 1:1 from the uploaded reference photo: facial features, proportions, eye shape, nose, lips, natural asymmetry, and skin texture; no beautification or idealization. Cinematic look. Long, straight hair. Makeup: glowing skin, subtle contouring, dusty rose lips, long eyelashes, and softly blended winged eyeliner. An extremely close cinematic portrait. The camera is almost touching the face, shot with an 85mm lens and a very shallow depth of field. The girl sharply turns toward the camera after movement, with her hair flying chaotically across her face and partially covering one eye. Her hands are hidden inside an oversized light pink cotton shirt with thin vertical white stripes, worn off one shoulder, with the sleeve slightly slipped down and pressed against her shoulder and chin. Her expression is soft, natural, and unposed, with a gentle, sweet half-smile. Focus is only on the eyes and the line of the lips, while everything else melts into soft film grain. The framing is intentionally broken, with part of the head and shoulder cropped out. Bright, sunlit lighting, like a film still from an arthouse movie. The atmosphere is strange, intimate, and deeply cinematic.",
+    "sourceLink": "https://x.com/Sairah_0/status/2081595356157292624",
+    "sourcePublishedAt": "2026-07-27T04:19:41.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HONP8Hka8AARqxB.jpg",
+      "https://pbs.twimg.com/media/HONP8HfbEAA2xAw.jpg"
+    ],
+    "author": {
+      "name": "Sairah",
+      "link": "https://x.com/Sairah_0"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 89,
+    "needReferenceImages": true,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2081595356157292624",
+      "model_evidence": "gpt-image-2",
+      "collected_at": "2026-07-27",
+      "curation_note": "Passed explicit prompt, source attribution, media availability, duplicate, and editorial-value review.",
+      "prompt_source": "tweet_text_prompt_normalized",
+      "retweetCount": 1,
+      "replyCount": 7,
+      "likeCount": 8,
+      "quoteCount": 0,
+      "viewCount": 176,
+      "bookmarkCount": 1
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 17,
+          "title": "Infographic & Typography",
+          "slug": "infographic-typography"
+        }
+      ],
+      "styles": [
+        {
+          "id": 43,
+          "title": "Editorial Poster",
+          "slug": "editorial-poster"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 59,
+          "title": "Marketing Layout",
+          "slug": "marketing-layout"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 65,
+          "title": {
+            "en": "Environments, Architecture & Worldbuilding",
+            "zh": "环境、建筑与世界构建",
+            "zh-TW": "環境、建築與世界構建",
+            "ja-JP": "環境・建築・世界観構築",
+            "ko-KR": "환경, 건축 및 세계관 구축",
+            "es-ES": "Entornos, arquitectura y creación de mundos",
+            "es-419": "Entornos, arquitectura y construcción de mundos",
+            "de-DE": "Umgebungen, Architektur und Worldbuilding",
+            "fr-FR": "Environnements, architecture et création d'univers",
+            "it-IT": "Ambienti, architettura e worldbuilding",
+            "pt-BR": "Ambientes, arquitetura e construção de mundos",
+            "pt-PT": "Ambientes, arquitetura e construção de mundos",
+            "vi-VN": "Môi trường, kiến trúc và xây dựng thế giới",
+            "th-TH": "สภาพแวดล้อม สถาปัตยกรรม และการสร้างโลก",
+            "hi-IN": "परिवेश, वास्तुकला और विश्व-निर्माण",
+            "tr-TR": "Ortamlar, mimari ve dünya inşası"
+          },
+          "slug": "environments-architecture-worldbuilding"
+        }
+      ]
+    }
+  },
+  {
+    "id": 90,
+    "model": "gpt-image-2",
+    "title": "Six-mood character sticker sheet",
+    "description": "A GPT Image 2 prompt for turning one reference person into a clean vertical sticker sheet with six daily-life moods.",
+    "content": "Turn the uploaded photo into a premium sticker sheet featuring the same person in 6 different moods and daily-life situations. Style: Cute 2D Pixar-inspired cartoon illustration, clean vector-like artwork, expressive face, adorable proportions, soft shading, vibrant colors, highly detailed. Layout: 6 separate stickers arranged vertically in a 9:16 canvas. Solid black background.\n\nEach sticker has a thick white die-cut sticker border. Each sticker must be clearly separated from the others — no touching, no overlapping, leave visible black space between every sticker. Keep the character recognizable from the uploaded photo (hair, facial features, skin tone, outfit style). Stickers: Work Mode – focused at a laptop, headphones on. Happy Meal – enjoying favorite food with a joyful expression. Overthinking – resting head on hand with a thinking cloud.\n\nNeed Coffee – sleepy and low-energy holding a coffee cup. Main Character Energy – confident pose with sparkle effects. Me Time – cozy hoodie, warm drink, relaxed expression. Add cute doodles around each sticker such as hearts, sparkles, stars, music notes, clouds, lightning bolts, and emojis. Include the caption text directly attached to (touching) the bottom of each sticker's white border — as if the text label is part of the sticker itself, seamlessly connected to the white die-cut edge.\n\nCaptions: \"Work Mode\", \"Happy Meal\", \"Overthinking\", \"Need Coffee\", \"Main Character Energy\", \"Me Time\". Stylish handwritten font, white or pastel color. Professional sticker-pack design, social media sticker set, clean composition, high contrast, ultra cute, trendy aesthetic, crisp outlines, premium quality, black background, white sticker borders, 9:16 aspect ratio.\n\nEach sticker has a thick white die-cut sticker border. Each sticker must be clearly separated from the others — no touching, no overlapping, leave visible black space between every sticker. Keep the character recognizable from the uploaded photo (hair, facial features, skin tone, outfit style). Stickers: Work Mode – focused at a laptop, headphones on. Happy Meal – enjoying favorite food with a joyful expression. Overthinking – resting head on hand with a thinking cloud.\n\nNeed Coffee – sleepy and low-energy holding a coffee cup. Main Character Energy – confident pose with sparkle effects. Me Time – cozy hoodie, warm drink, relaxed expression. Add cute doodles around each sticker such as hearts, sparkles, stars, music notes, clouds, lightning bolts, and emojis. Include the caption text directly attached to (touching) the bottom of each sticker's white border — as if the text label is part of the sticker itself, seamlessly connected to the white die-cut edge.\n\nCaptions: \"Work Mode\", \"Happy Meal\", \"Overthinking\", \"Need Coffee\", \"Main Character Energy\", \"Me Time\". Stylish handwritten font, white or pastel color. Professional sticker-pack design, social media sticker set, clean composition, high contrast, ultra cute, trendy aesthetic, crisp outlines, premium quality, black background, white sticker borders, 9:16 aspect ratio.",
+    "sourceLink": "https://x.com/oggii_0/status/2081980605747880354",
+    "sourcePublishedAt": "Tue Jul 28 05:50:32 +0000 2026",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HOSuUGZaAAAs96G.jpg",
+      "https://pbs.twimg.com/media/HOSuUGha8AALv8s.jpg"
+    ],
+    "author": {
+      "name": "Oogie",
+      "link": "https://x.com/oggii_0"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 90,
+    "needReferenceImages": true,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2081980605747880354",
+      "model_evidence": "gpt-image-2",
+      "collected_at": "2026-07-28",
+      "curation_note": "Second-wave twitterapi.io candidate accepted after explicit prompt, media, attribution, duplicate, and editorial-value review.",
+      "prompt_source": "tweet_text_prompt_normalized",
+      "retweetCount": 0,
+      "replyCount": 22,
+      "likeCount": 32,
+      "quoteCount": 1,
+      "viewCount": 783,
+      "bookmarkCount": 7
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 17,
+          "title": "Infographic & Typography",
+          "slug": "infographic-typography"
+        }
+      ],
+      "styles": [
+        {
+          "id": 43,
+          "title": "Editorial Poster",
+          "slug": "editorial-poster"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 59,
+          "title": "Marketing Layout",
+          "slug": "marketing-layout"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 65,
+          "title": {
+            "en": "Environments, Architecture & Worldbuilding",
+            "zh": "环境、建筑与世界构建",
+            "zh-TW": "環境、建築與世界構建",
+            "ja-JP": "環境・建築・世界観構築",
+            "ko-KR": "환경, 건축 및 세계관 구축",
+            "es-ES": "Entornos, arquitectura y creación de mundos",
+            "es-419": "Entornos, arquitectura y construcción de mundos",
+            "de-DE": "Umgebungen, Architektur und Worldbuilding",
+            "fr-FR": "Environnements, architecture et création d'univers",
+            "it-IT": "Ambienti, architettura e worldbuilding",
+            "pt-BR": "Ambientes, arquitetura e construção de mundos",
+            "pt-PT": "Ambientes, arquitetura e construção de mundos",
+            "vi-VN": "Môi trường, kiến trúc và xây dựng thế giới",
+            "th-TH": "สภาพแวดล้อม สถาปัตยกรรม และการสร้างโลก",
+            "hi-IN": "परिवेश, वास्तुकला और विश्व-निर्माण",
+            "tr-TR": "Ortamlar, mimari ve dünya inşası"
+          },
+          "slug": "environments-architecture-worldbuilding"
+        }
+      ]
+    }
+  },
+  {
+    "id": 91,
+    "model": "gpt-image-2",
+    "title": "Luxury resort experience storyboard",
+    "description": "A GPT Image 2 storyboard prompt for a five-star island resort campaign with eight cinematic scenes.",
+    "content": "TITLE: Luxury Resort Experience Storyboard\n\nFORMAT:\n• Single-page premium storyboard\n• 3:4 Portrait\n• Five-star resort campaign\n• Editorial presentation\n• 8 cinematic storyboard scenes\n\nHEADER:\n• Elegant serif typography\n• Tropical luxury aesthetic\n• Gold decorative doodles\n• Information cards\n• Why This Style Works\n\nSTORYBOARD:\n1. Aerial island resort reveal\n2. Grand lobby entrance\n3. Infinity pool overlooking ocean\n4. Oceanfront breakfast\n5. Spa treatment scene\n6. Sunset dinner by the beach\n7. Luxury suite reveal\n8. Resort hero aerial shot\n\nSTYLE:\nFour Seasons / Aman Resorts aesthetic, cinematic travel photography, warm golden hour lighting, luxury editorial magazine, ultra realistic, 8K.",
+    "sourceLink": "https://x.com/Strength04_X/status/2081977119811522597",
+    "sourcePublishedAt": "Tue Jul 28 05:36:41 +0000 2026",
+    "sourceMedia": [
+      "https://pbs.twimg.com/amplify_video_thumb/2081976937787031553/img/JuUf9U8Qz9bjBCHQ.jpg",
+      "https://pbs.twimg.com/media/HOSrI05a4AA6Pgk.jpg"
+    ],
+    "author": {
+      "name": "𝐌",
+      "link": "https://x.com/Strength04_X"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 91,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2081977119811522597",
+      "model_evidence": "gpt-image-2",
+      "collected_at": "2026-07-28",
+      "curation_note": "Second-wave twitterapi.io candidate accepted after explicit prompt, media, attribution, duplicate, and editorial-value review.",
+      "prompt_source": "tweet_text_prompt_normalized",
+      "retweetCount": 1,
+      "replyCount": 18,
+      "likeCount": 32,
+      "quoteCount": 0,
+      "viewCount": 670,
+      "bookmarkCount": 5
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 17,
+          "title": "Infographic & Typography",
+          "slug": "infographic-typography"
+        }
+      ],
+      "styles": [
+        {
+          "id": 43,
+          "title": "Editorial Poster",
+          "slug": "editorial-poster"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 59,
+          "title": "Marketing Layout",
+          "slug": "marketing-layout"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 65,
+          "title": {
+            "en": "Environments, Architecture & Worldbuilding",
+            "zh": "环境、建筑与世界构建",
+            "zh-TW": "環境、建築與世界構建",
+            "ja-JP": "環境・建築・世界観構築",
+            "ko-KR": "환경, 건축 및 세계관 구축",
+            "es-ES": "Entornos, arquitectura y creación de mundos",
+            "es-419": "Entornos, arquitectura y construcción de mundos",
+            "de-DE": "Umgebungen, Architektur und Worldbuilding",
+            "fr-FR": "Environnements, architecture et création d'univers",
+            "it-IT": "Ambienti, architettura e worldbuilding",
+            "pt-BR": "Ambientes, arquitetura e construção de mundos",
+            "pt-PT": "Ambientes, arquitetura e construção de mundos",
+            "vi-VN": "Môi trường, kiến trúc và xây dựng thế giới",
+            "th-TH": "สภาพแวดล้อม สถาปัตยกรรม และการสร้างโลก",
+            "hi-IN": "परिवेश, वास्तुकला और विश्व-निर्माण",
+            "tr-TR": "Ortamlar, mimari ve dünya inşası"
+          },
+          "slug": "environments-architecture-worldbuilding"
+        }
+      ]
+    },
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2081976937787031553/vid/avc1/720x1280/RFeIBoWzy4Mq3ud5.mp4?tag=29",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2081976937787031553/img/JuUf9U8Qz9bjBCHQ.jpg"
+    }
+  },
+  {
+    "id": 92,
+    "model": "gpt-image-2",
+    "title": "Ultra-wide pink cat selfie",
+    "description": "A GPT Image 2 prompt for a low-angle cat-and-person portrait with exaggerated lens depth.",
+    "content": "Create an image of me in the same frame as a cat. In a realistic photographic style, use a low-angle composition to capture a soft, curious cat. The cat’s nose is extremely close to the camera lens and dominates the foreground of the image. Its eyes are positioned symmetrically on the left and right. Show the cat’s entire body. The background is light pink, with the exaggerated sense of depth created by a distorted ultra-wide-angle lens, producing a unique visual effect. Because the nose is so close to the lens, it appears slightly out of focus, highlighting the natural texture of the nose, fur, and whiskers. I am also visible in the same frame. Aspect ratio: 9:16.",
+    "sourceLink": "https://x.com/Sairah_0/status/2082010749220917253",
+    "sourcePublishedAt": "Tue Jul 28 07:50:19 +0000 2026",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HOTJvPWacAARNR6.jpg",
+      "https://pbs.twimg.com/media/HOTJvOmaUAEtjUz.jpg"
+    ],
+    "author": {
+      "name": "Sairah",
+      "link": "https://x.com/Sairah_0"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 92,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2082010749220917253",
+      "model_evidence": "gpt-image-2",
+      "collected_at": "2026-07-28",
+      "curation_note": "Second-wave twitterapi.io candidate accepted after explicit prompt, media, attribution, duplicate, and editorial-value review.",
+      "prompt_source": "tweet_text_prompt_normalized",
+      "retweetCount": 0,
+      "replyCount": 13,
+      "likeCount": 16,
+      "quoteCount": 0,
+      "viewCount": 390,
+      "bookmarkCount": 4
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 17,
+          "title": "Infographic & Typography",
+          "slug": "infographic-typography"
+        }
+      ],
+      "styles": [
+        {
+          "id": 43,
+          "title": "Editorial Poster",
+          "slug": "editorial-poster"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 59,
+          "title": "Marketing Layout",
+          "slug": "marketing-layout"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 65,
+          "title": {
+            "en": "Environments, Architecture & Worldbuilding",
+            "zh": "环境、建筑与世界构建",
+            "zh-TW": "環境、建築與世界構建",
+            "ja-JP": "環境・建築・世界観構築",
+            "ko-KR": "환경, 건축 및 세계관 구축",
+            "es-ES": "Entornos, arquitectura y creación de mundos",
+            "es-419": "Entornos, arquitectura y construcción de mundos",
+            "de-DE": "Umgebungen, Architektur und Worldbuilding",
+            "fr-FR": "Environnements, architecture et création d'univers",
+            "it-IT": "Ambienti, architettura e worldbuilding",
+            "pt-BR": "Ambientes, arquitetura e construção de mundos",
+            "pt-PT": "Ambientes, arquitetura e construção de mundos",
+            "vi-VN": "Môi trường, kiến trúc và xây dựng thế giới",
+            "th-TH": "สภาพแวดล้อม สถาปัตยกรรม และการสร้างโลก",
+            "hi-IN": "परिवेश, वास्तुकला और विश्व-निर्माण",
+            "tr-TR": "Ortamlar, mimari ve dünya inşası"
+          },
+          "slug": "environments-architecture-worldbuilding"
+        }
+      ]
+    }
   }
 ]
