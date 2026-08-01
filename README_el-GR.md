@@ -101,7 +101,7 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 |--------|-------|
 | Σύνολο prompts | **92** |
 | Επιλεγμένο | **12** |
-| Τελευταία ενημέρωση | **Σάββατο 1 Αυγούστου 2026 στις 1:11:57 μ.μ. UTC** |
+| Τελευταία ενημέρωση | **Σάββατο 1 Αυγούστου 2026 στις 4:56:09 μ.μ. UTC** |
 
 </div>
 
@@ -4858,6 +4858,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Υποβολή prompt](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Κάντε Star στο repo](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-08-01T13:11:57.947Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-08-01T16:56:09.803Z</sub>
 
 </div>
