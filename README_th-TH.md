@@ -101,7 +101,7 @@ Project links stay inside this repository; model capability sources point to off
 |--------|-------|
 | จำนวน prompt ทั้งหมด | **92** |
 | แนะนำ | **12** |
-| อัปเดตล่าสุด | **วันเสาร์ที่ 1 สิงหาคม พ.ศ. 2569 เวลา 6 นาฬิกา 25 นาที 38 วินาที UTC** |
+| อัปเดตล่าสุด | **วันเสาร์ที่ 1 สิงหาคม พ.ศ. 2569 เวลา 9 นาฬิกา 55 นาที 08 วินาที UTC** |
 
 </div>
 
@@ -4858,6 +4858,6 @@ A source-backed image prompt for structured visual communication, readable text,
 **[Submit a Prompt](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[ประวัติ Star](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills)**
 
-<sub>อัปเดตล่าสุด: 2026-08-01T06:25:38.494Z</sub>
+<sub>อัปเดตล่าสุด: 2026-08-01T09:55:08.698Z</sub>
 
 </div>
