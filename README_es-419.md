@@ -99,9 +99,9 @@ Cambia los argumentos para reutilizar el prompt como una skill creativa compacta
 
 | Métrica | Cantidad |
 |--------|-------|
-| Prompts totales | **92** |
+| Prompts totales | **93** |
 | Destacado | **12** |
-| Última actualización | **martes, 28 de julio de 2026, 10:55:24 a.m. UTC** |
+| Última actualización | **lunes, 3 de agosto de 2026, 1:15:38 p.m. UTC** |
 
 </div>
 
@@ -836,7 +836,7 @@ Create a dense, clean, production-ready anime pre-production board combining a c
 
 <a id="workflow-directed-editing-input-control"></a>
 
-### Edición dirigida y control de entrada (11)
+### Edición dirigida y control de entrada (12)
 
 Prompts that modify an existing image or use regions, sketches, references, and positional instructions to control the result.
 
@@ -1161,6 +1161,43 @@ A RAW, ultra-realistic smartphone photo of a beautiful young Asian woman standin
 
 ---
 
+<a id="prompt-93"></a>
+
+#### No. 9: Prismatic greenhouse portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+##### Descripción
+
+A source-backed GPT Image 2 edit that uses rippled vintage glass, botanical color, and controlled optical distortion to build a tactile editorial portrait.
+
+##### Prompt
+
+```
+Photorealistic surreal editorial photograph of a naturally beautiful young woman viewed through a large panel of rippled vintage glass inside a sunlit greenhouse, framed from the thighs upward. She wears a plain loose white cotton T-shirt and faded blue jeans, standing naturally with relaxed shoulders and a quiet direct gaze. Her eyes and central facial features remain visible through one clear section of glass while the surrounding surface fractures her silhouette into soft prismatic repetitions. Dense scarlet, tangerine and powder-pink flowers behind the glass melt into floating pools of color, stretched reflections and translucent botanical shadows across her shirt and skin. Slender stems appear doubled and displaced, with small flashes of cobalt blue and golden sunlight breaking through the composition. Dreamlike optical distortion created in-camera, subtle motion traces, rich color bleeding, intimate analog softness, authentic 35mm grain, dusty highlights, gentle halation and imperfect photographic texture --chaos 40 --ar 4:5 --raw --profile be6pjat --stylize 900 --weird 13 --hd
+```
+
+##### Imágenes generadas
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HOy3MTCa8AEZRy6.jpg" width="100%" alt="Prismatic greenhouse portrait - Image 1"></td>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HOy3MTBaEAAF_-W.jpg" width="100%" alt="Prismatic greenhouse portrait - Image 2"></td>
+</tr>
+</table>
+
+##### Detalles
+
+- **Autor:** [Al-Shamus](https://x.com/im_shahid7)
+- **Fuente:** [Fuente](https://x.com/im_shahid7/status/2084242159931392409)
+- **Publicado:** 3 de agosto de 2026
+- **Idiomas:** en
+
+**[Usar este prompt · GPT Image 2 Library](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills)**
+
+---
+
 <a id="workflow-commercial-design-ui-posters"></a>
 
 ### Diseño comercial, UI y pósteres (46)
@@ -1177,7 +1214,7 @@ Production briefs for advertisements, product campaigns, interfaces, posters, ty
 
 <a id="prompt-15"></a>
 
-#### No. 9: Luxury studio fashion editorial 4
+#### No. 10: Luxury studio fashion editorial 4
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1213,7 +1250,7 @@ A soft minimalist portrait of a young woman with sleek dark violet-black bob hai
 
 <a id="prompt-17"></a>
 
-#### No. 10: Korean doodle editorial scene
+#### No. 11: Korean doodle editorial scene
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1301,7 +1338,7 @@ over-rendered characters.
 
 <a id="prompt-18"></a>
 
-#### No. 11: Candid smartphone lifestyle portrait 2
+#### No. 12: Candid smartphone lifestyle portrait 2
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1337,7 +1374,7 @@ Photorealistic candid smartphone snapshot of a stylish young East Asian woman st
 
 <a id="prompt-19"></a>
 
-#### No. 12: Modular editorial collage poster 2
+#### No. 13: Modular editorial collage poster 2
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1372,7 +1409,7 @@ Modern Editorial Collage Poster Design, The Background Features Four Stacked Rou
 
 <a id="prompt-20"></a>
 
-#### No. 13: Parking garage motion portrait
+#### No. 14: Parking garage motion portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -1412,7 +1449,7 @@ the other hand holding a jacket at her side, skirt swinging slightly, handheld e
 
 <a id="prompt-21"></a>
 
-#### No. 14: Luxury studio fashion editorial 5
+#### No. 15: Luxury studio fashion editorial 5
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1447,7 +1484,7 @@ Glamorous girl with long voluminous wavy blonde hair, soft glam makeup with wing
 
 <a id="prompt-22"></a>
 
-#### No. 15: Premium food and beverage campaign 3
+#### No. 16: Premium food and beverage campaign 3
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1501,7 +1538,7 @@ Aspect Ratio: 9:16 vertical.
 
 <a id="prompt-23"></a>
 
-#### No. 16: Handcrafted paper diorama portrait
+#### No. 17: Handcrafted paper diorama portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -1548,7 +1585,7 @@ Art style: premium layered papercraft illustration, 3D paper cut collage, cute r
 
 <a id="prompt-26"></a>
 
-#### No. 17: Identity-preserving reference edit 5
+#### No. 18: Identity-preserving reference edit 5
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -1592,7 +1629,7 @@ Negative prompt: cartoon, CGI, illustration, anime, painting, overprocessed skin
 
 <a id="prompt-28"></a>
 
-#### No. 18: Flat-vector doodle character poster 2
+#### No. 19: Flat-vector doodle character poster 2
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -1629,7 +1666,7 @@ Playful flat-vector poster illustration of the reference image posing with [subj
 
 <a id="prompt-29"></a>
 
-#### No. 19: Flat-vector doodle character poster 3
+#### No. 20: Flat-vector doodle character poster 3
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -1714,7 +1751,7 @@ Negative Prompt: low quality, blurry, oversaturated colors, modern minimalist st
 
 <a id="prompt-30"></a>
 
-#### No. 20: Low-key monochrome portrait edit 2
+#### No. 21: Low-key monochrome portrait edit 2
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -1775,7 +1812,7 @@ Camera: elevated telephoto perspective, centered composition, full-body shot, ey
 
 <a id="prompt-33"></a>
 
-#### No. 21: Modular editorial collage poster 3
+#### No. 22: Modular editorial collage poster 3
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -1828,7 +1865,7 @@ Aspect Ratio: 4:5.
 
 <a id="prompt-34"></a>
 
-#### No. 22: Paper-collage travel bookmark
+#### No. 23: Paper-collage travel bookmark
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -1889,7 +1926,7 @@ Avoid photorealism, CGI, glossy materials, excessive architectural detail, heavy
 
 <a id="prompt-35"></a>
 
-#### No. 23: Premium food and beverage campaign 4
+#### No. 24: Premium food and beverage campaign 4
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1937,7 +1974,7 @@ Minimal composition, lots of negative space, bright high-key lighting, soft shad
 
 <a id="prompt-36"></a>
 
-#### No. 24: Luxury studio fashion editorial 9
+#### No. 25: Luxury studio fashion editorial 9
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1978,7 +2015,7 @@ High-fashion editorial photography, young woman with sleek pulled-back hair, dyn
 
 <a id="prompt-39"></a>
 
-#### No. 25: Minimal premium product advertisement
+#### No. 26: Minimal premium product advertisement
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -2019,7 +2056,7 @@ Ultra-photorealistic, seamless blend of reality and fantasy, cinematic compositi
 
 <a id="prompt-40"></a>
 
-#### No. 26: Minimal premium product advertisement 2
+#### No. 27: Minimal premium product advertisement 2
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2061,7 +2098,7 @@ Photorealistic, premium editorial fashion photography, authentic football cultur
 
 <a id="prompt-41"></a>
 
-#### No. 27: Minimal premium product advertisement 3
+#### No. 28: Minimal premium product advertisement 3
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -2106,7 +2143,7 @@ Include realistic movie credits, production logos, Dolby Cinema, IMAX branding, 
 
 <a id="prompt-43"></a>
 
-#### No. 28: Flat-vector doodle character poster 4
+#### No. 29: Flat-vector doodle character poster 4
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2143,7 +2180,7 @@ Create a premium editorial scrapbook collage featuring [SUBJECT] standing full-b
 
 <a id="prompt-45"></a>
 
-#### No. 29: Premium food and beverage campaign 5
+#### No. 30: Premium food and beverage campaign 5
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2192,7 +2229,7 @@ Photography style: luxury fashion editorial, magazine cover quality, minimalist 
 
 <a id="prompt-46"></a>
 
-#### No. 30: Floating sports shoe campaign
+#### No. 31: Floating sports shoe campaign
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2230,7 +2267,7 @@ Bold graphic cartoon illustration of [HUMAN], full body, wearing [CLOTHING], mid
 
 <a id="prompt-47"></a>
 
-#### No. 31: Paper-collage travel bookmark 2
+#### No. 32: Paper-collage travel bookmark 2
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -2301,7 +2338,7 @@ Avoid mobile app UI elements, device frames, navigation icons, hearts, menus, or
 
 <a id="prompt-48"></a>
 
-#### No. 32: Luxury studio fashion editorial 11
+#### No. 33: Luxury studio fashion editorial 11
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -2344,7 +2381,7 @@ Negative Prompt: Color, smile, text, watermark, logo, extra people, extra limbs,
 
 <a id="prompt-49"></a>
 
-#### No. 33: Cinematic community prompt
+#### No. 34: Cinematic community prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2382,7 +2419,7 @@ Retro motorsport poster for [CAR], 4:5 vertical. Show a front-facing low-angle h
 
 <a id="prompt-50"></a>
 
-#### No. 34: Premium food and beverage campaign 6
+#### No. 35: Premium food and beverage campaign 6
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -2421,7 +2458,7 @@ Use the uploaded food/beverage image as the main reference. Preserve the exact p
 
 <a id="prompt-51"></a>
 
-#### No. 35: Identity-preserving reference edit 7
+#### No. 36: Identity-preserving reference edit 7
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -2465,7 +2502,7 @@ Camera: Full-frame DSLR, 50mm lens, f/2.2, ISO 100, 1/500s, overhead drone-style
 
 <a id="prompt-53"></a>
 
-#### No. 36: Identity-preserving reference edit 8
+#### No. 37: Identity-preserving reference edit 8
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -2507,7 +2544,7 @@ Shot on a full-frame camera, 85mm lens, f/2.8, ISO 100, HDR, ultra-sharp focus, 
 
 <a id="prompt-54"></a>
 
-#### No. 37: Cinematic community prompt 2
+#### No. 38: Cinematic community prompt 2
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2543,7 +2580,7 @@ A cinematic portrait photograph of a young woman in her mid-20s with long straig
 
 <a id="prompt-56"></a>
 
-#### No. 38: Identity-preserving reference edit 10
+#### No. 39: Identity-preserving reference edit 10
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2579,7 +2616,7 @@ Reference the character from the provided image. Create a high-quality photo of 
 
 <a id="prompt-57"></a>
 
-#### No. 39: Autumn staircase Zen wallpaper poster
+#### No. 40: Autumn staircase Zen wallpaper poster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2614,7 +2651,7 @@ Create an Eastern Zen minimalist poster with a high-contrast seasonal aesthetic.
 
 <a id="prompt-63"></a>
 
-#### No. 40: Goldfish lantern Zen wallpaper poster
+#### No. 41: Goldfish lantern Zen wallpaper poster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2649,7 +2686,7 @@ Create a vertical 9:16 East Asian Zen minimalist poster with a high-contrast, ce
 
 <a id="prompt-69"></a>
 
-#### No. 41: Ford Mustang ink-wash campaign poster
+#### No. 42: Ford Mustang ink-wash campaign poster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2751,7 +2788,7 @@ gray car, desaturated vehicle, car blending into background, generic sports car,
 
 <a id="prompt-70"></a>
 
-#### No. 42: Ford Raptor desert predator campaign
+#### No. 43: Ford Raptor desert predator campaign
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2860,7 +2897,7 @@ full bird body, dragon, reptile monster, fantasy beast, pasted creature, cartoon
 
 <a id="prompt-71"></a>
 
-#### No. 43: Mascot merchandise application board
+#### No. 44: Mascot merchandise application board
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2968,7 +3005,7 @@ different crocodile design, altered mascot face, off-model character, inconsiste
 
 <a id="prompt-72"></a>
 
-#### No. 44: Transparent vacuum engineering cutaway
+#### No. 45: Transparent vacuum engineering cutaway
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3120,7 +3157,7 @@ generic tech ad, fake CGI fantasy structure, impossible internal geometry, carto
 
 <a id="prompt-73"></a>
 
-#### No. 45: Four-panel vacuum campaign board
+#### No. 46: Four-panel vacuum campaign board
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3268,7 +3305,7 @@ generic appliance catalog, cheap retail flyer, cluttered home scene, wrong vacuu
 
 <a id="prompt-74"></a>
 
-#### No. 46: Desert trail sneaker field journal
+#### No. 47: Desert trail sneaker field journal
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3388,7 +3425,7 @@ generic hiking ad, messy scrapbook look, cartoon doodles, fake New Balance silho
 
 <a id="prompt-77"></a>
 
-#### No. 47: Kinetic rooftop boxing poster
+#### No. 48: Kinetic rooftop boxing poster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3425,7 +3462,7 @@ Create a 4:5 full-bleed editorial action poster for STRIKE SPORT. The brand’s 
 
 <a id="prompt-79"></a>
 
-#### No. 48: Vintage overland expedition poster
+#### No. 49: Vintage overland expedition poster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3463,7 +3500,7 @@ Ultra-detailed vintage overland expedition poster featuring a legendary classic 
 
 <a id="prompt-86"></a>
 
-#### No. 49: Use the uploaded reference image as the strict identity
+#### No. 50: Use the uploaded reference image as the strict identity
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -3511,7 +3548,7 @@ Structured visuals where information order matters: diagrams, technical drawings
 
 <a id="prompt-13"></a>
 
-#### No. 50: Japanese cooking storyboard board
+#### No. 51: Japanese cooking storyboard board
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -3598,7 +3635,7 @@ Location: Traditional Japanese kitchen.
 
 <a id="prompt-78"></a>
 
-#### No. 51: Photoreal product blueprint infographic
+#### No. 52: Photoreal product blueprint infographic
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -3641,7 +3678,7 @@ Include a sketch box in the upper left corner with the title "[name] ".
 
 <a id="prompt-81"></a>
 
-#### No. 52: Production-ready master character reference sheet
+#### No. 53: Production-ready master character reference sheet
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -3673,7 +3710,7 @@ Create a single unified MASTER CHARACTER REFERENCE SHEET from these inputs: [STY
 
 <a id="prompt-82"></a>
 
-#### No. 53: Minimal palm-line analysis guide
+#### No. 54: Minimal palm-line analysis guide
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -3710,7 +3747,7 @@ Based on the attached open-palm image, make a complete palm-line analysis guide.
 
 <a id="prompt-83"></a>
 
-#### No. 54: Papercraft destination emerging from a travel tablet
+#### No. 55: Papercraft destination emerging from a travel tablet
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3746,7 +3783,7 @@ Create a premium vintage travel poster for [COUNTRY, CITY]. Place a large tablet
 
 <a id="prompt-87"></a>
 
-#### No. 55: A beautiful young Italian woman with olive-fair skin, warm
+#### No. 56: A beautiful young Italian woman with olive-fair skin, warm
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3792,7 +3829,7 @@ Character, portrait, fashion, cinematic-frame, and style-exploration prompts cen
 
 <a id="prompt-16"></a>
 
-#### No. 56: Premium food and beverage campaign 2
+#### No. 57: Premium food and beverage campaign 2
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -3840,7 +3877,7 @@ Negative Prompt: (text, UI elements, watermark, social media overlay:1.5), (heav
 
 <a id="prompt-25"></a>
 
-#### No. 57: Identity-preserving reference edit 4
+#### No. 58: Identity-preserving reference edit 4
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -3881,7 +3918,7 @@ Multiple cute candid poses: softly touching her hair, hand resting on cheek, pla
 
 <a id="prompt-31"></a>
 
-#### No. 58: Luxury studio fashion editorial 7
+#### No. 59: Luxury studio fashion editorial 7
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -3917,7 +3954,7 @@ Candid fashion editorial portrait of handsome young man with medium-length dark 
 
 <a id="prompt-32"></a>
 
-#### No. 59: Luxury studio fashion editorial 8
+#### No. 60: Luxury studio fashion editorial 8
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -3958,7 +3995,7 @@ Style: editorial luxury fashion portrait, photorealistic, professional studio ph
 
 <a id="prompt-37"></a>
 
-#### No. 60: Luxury studio fashion editorial 10
+#### No. 61: Luxury studio fashion editorial 10
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3995,7 +4032,7 @@ High-fashion editorial portrait, young woman with sleek pulled-back dark hair, l
 
 <a id="prompt-52"></a>
 
-#### No. 61: Crimson-hands surreal porcelain portrait
+#### No. 62: Crimson-hands surreal porcelain portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4031,7 +4068,7 @@ Ultra-realistic surreal conceptual portrait of a flawless matte porcelain-white 
 
 <a id="prompt-55"></a>
 
-#### No. 62: Identity-preserving reference edit 9
+#### No. 63: Identity-preserving reference edit 9
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -4067,7 +4104,7 @@ A character, portrait, or stylized illustration prompt with clear art direction 
 
 <a id="prompt-58"></a>
 
-#### No. 63: Period-drama heroine portrait and turnaround sheet
+#### No. 64: Period-drama heroine portrait and turnaround sheet
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4103,7 +4140,7 @@ Create a photoreal Chinese period-drama heroine character sheet for an affluent 
 
 <a id="prompt-60"></a>
 
-#### No. 64: Sunlit Scandinavian knitwear portrait
+#### No. 65: Sunlit Scandinavian knitwear portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4139,7 +4176,7 @@ Dreamy sunlit portrait of a young woman with long soft light-brown hair, delicat
 
 <a id="prompt-62"></a>
 
-#### No. 65: Autumn ferry-crossing period-fantasy heroine
+#### No. 66: Autumn ferry-crossing period-fantasy heroine
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4174,7 +4211,7 @@ Create a high-resolution vertical 9:16 Chinese period-fantasy portrait with the 
 
 <a id="prompt-65"></a>
 
-#### No. 66: Curved-concrete Japanese luxury fashion editorial
+#### No. 67: Curved-concrete Japanese luxury fashion editorial
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4210,7 +4247,7 @@ A stunning young Japanese woman in a high-end fashion studio photoshoot, standin
 
 <a id="prompt-66"></a>
 
-#### No. 67: Retro shoujo portrait with tabby cat
+#### No. 68: Retro shoujo portrait with tabby cat
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4245,7 +4282,7 @@ Create an ultra-detailed retro Japanese anime illustration inspired by authentic
 
 <a id="prompt-67"></a>
 
-#### No. 68: Sunlit beach fashion portrait
+#### No. 69: Sunlit beach fashion portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4282,7 +4319,7 @@ In the background, there are wild green reeds, distant palm trees, and a clear b
 
 <a id="prompt-68"></a>
 
-#### No. 69: Retro red jersey street portrait
+#### No. 70: Retro red jersey street portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4324,7 +4361,7 @@ A GPT Image 2 street-fashion prompt for a confident portrait built around an ove
 
 <a id="prompt-75"></a>
 
-#### No. 70: Cozy plush companion studio portrait
+#### No. 71: Cozy plush companion studio portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4359,7 +4396,7 @@ A GPT Image 2 studio portrait prompt for a cheerful, cleanly styled fashion pose
 
 <a id="prompt-88"></a>
 
-#### No. 71: ️⬇️⬇️ A serene pre-dawn photograph of a young Japanese
+#### No. 72: ️⬇️⬇️ A serene pre-dawn photograph of a young Japanese
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -4408,7 +4445,7 @@ Environment, architecture, landscape, concept-art, and worldbuilding prompts whe
 
 <a id="prompt-14"></a>
 
-#### No. 72: Candid smartphone lifestyle portrait
+#### No. 73: Candid smartphone lifestyle portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -4449,7 +4486,7 @@ Negative: anime, CGI, blur, bad anatomy, extra fingers, watermark, logo.
 
 <a id="prompt-24"></a>
 
-#### No. 73: Mall fashion smartphone scene
+#### No. 74: Mall fashion smartphone scene
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4485,7 +4522,7 @@ Indian woman in a sky-blue pearl saree, matching blouse, elegant handbag, mehndi
 
 <a id="prompt-38"></a>
 
-#### No. 74: Candid smartphone lifestyle portrait 3
+#### No. 75: Candid smartphone lifestyle portrait 3
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -4525,7 +4562,7 @@ A cozy bedroom mirror selfie captured in natural daylight. A stylish young man s
 
 <a id="prompt-80"></a>
 
-#### No. 75: Ink-to-clay travel journal
+#### No. 76: Ink-to-clay travel journal
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4582,7 +4619,7 @@ Excludes: Passport stamps, globe, large typography, scrapbook clutter, fantasy p
 
 <a id="prompt-89"></a>
 
-#### No. 76: Strictly preserve the appearance 1:1 from the uploaded reference
+#### No. 77: Strictly preserve the appearance 1:1 from the uploaded reference
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -4619,7 +4656,7 @@ Strictly preserve the appearance 1:1 from the uploaded reference photo: facial f
 
 <a id="prompt-90"></a>
 
-#### No. 77: Six-mood character sticker sheet
+#### No. 78: Six-mood character sticker sheet
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -4668,7 +4705,7 @@ Captions: "Work Mode", "Happy Meal", "Overthinking", "Need Coffee", "Main Charac
 
 <a id="prompt-91"></a>
 
-#### No. 78: Luxury resort experience storyboard
+#### No. 79: Luxury resort experience storyboard
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4726,7 +4763,7 @@ Four Seasons / Aman Resorts aesthetic, cinematic travel photography, warm golden
 
 <a id="prompt-92"></a>
 
-#### No. 79: Ultra-wide pink cat selfie
+#### No. 80: Ultra-wide pink cat selfie
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4768,7 +4805,7 @@ Controlled tests and comparisons used to evaluate prompt following, editing beha
 
 <a id="prompt-84"></a>
 
-#### No. 80: 1 – Windy Meadow Portrait - fine-art portrait of
+#### No. 81: 1 – Windy Meadow Portrait - fine-art portrait of
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4858,6 +4895,6 @@ Publicado bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Enviar un prompt](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Dar star al repo](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills)**
 
-<sub>Este README se genera automáticamente. Última actualización: 2026-07-28T10:55:24.776Z</sub>
+<sub>Este README se genera automáticamente. Última actualización: 2026-08-03T13:15:38.692Z</sub>
 
 </div>

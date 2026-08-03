@@ -5982,5 +5982,137 @@
         }
       ]
     }
+  },
+  {
+    "id": 93,
+    "model": "gpt-image-2",
+    "title": "Prismatic greenhouse portrait",
+    "description": "A source-backed GPT Image 2 edit that uses rippled vintage glass, botanical color, and controlled optical distortion to build a tactile editorial portrait.",
+    "content": "Photorealistic surreal editorial photograph of a naturally beautiful young woman viewed through a large panel of rippled vintage glass inside a sunlit greenhouse, framed from the thighs upward. She wears a plain loose white cotton T-shirt and faded blue jeans, standing naturally with relaxed shoulders and a quiet direct gaze. Her eyes and central facial features remain visible through one clear section of glass while the surrounding surface fractures her silhouette into soft prismatic repetitions. Dense scarlet, tangerine and powder-pink flowers behind the glass melt into floating pools of color, stretched reflections and translucent botanical shadows across her shirt and skin. Slender stems appear doubled and displaced, with small flashes of cobalt blue and golden sunlight breaking through the composition. Dreamlike optical distortion created in-camera, subtle motion traces, rich color bleeding, intimate analog softness, authentic 35mm grain, dusty highlights, gentle halation and imperfect photographic texture --chaos 40 --ar 4:5 --raw --profile be6pjat --stylize 900 --weird 13 --hd",
+    "sourceLink": "https://x.com/im_shahid7/status/2084242159931392409",
+    "sourcePublishedAt": "2026-08-03T11:37:08.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HOy3MTCa8AEZRy6.jpg",
+      "https://pbs.twimg.com/media/HOy3MTBaEAAF_-W.jpg"
+    ],
+    "author": {
+      "name": "Al-Shamus",
+      "link": "https://x.com/im_shahid7"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 93,
+    "needReferenceImages": true,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2084242159931392409",
+      "prompt_source": "tweet_text_prompt",
+      "model_evidence": "gpt-image-2",
+      "collected_at": "2026-08-03",
+      "retweetCount": 3,
+      "replyCount": 8,
+      "likeCount": 50,
+      "quoteCount": 0,
+      "viewCount": 165,
+      "bookmarkCount": 0
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 13,
+          "title": {
+            "en": "Reference Image Edit",
+            "zh": "参考图编辑",
+            "zh-TW": "参考圖编辑",
+            "ja-JP": "Reference Image Edit",
+            "ko-KR": "Reference Image Edit",
+            "es-ES": "Reference Image Edit",
+            "es-419": "Reference Image Edit",
+            "de-DE": "Reference Image Edit",
+            "fr-FR": "Reference Image Edit",
+            "it-IT": "Reference Image Edit",
+            "pt-BR": "Reference Image Edit",
+            "pt-PT": "Reference Image Edit",
+            "vi-VN": "Reference Image Edit",
+            "th-TH": "Reference Image Edit",
+            "hi-IN": "Reference Image Edit",
+            "tr-TR": "Reference Image Edit"
+          },
+          "slug": "reference-image-edit"
+        }
+      ],
+      "styles": [
+        {
+          "id": 48,
+          "title": {
+            "en": "Magical Realism",
+            "zh": "魔幻现实主义",
+            "zh-TW": "魔幻現實主义",
+            "ja-JP": "Magical Realism",
+            "ko-KR": "Magical Realism",
+            "es-ES": "Magical Realism",
+            "es-419": "Magical Realism",
+            "de-DE": "Magical Realism",
+            "fr-FR": "Magical Realism",
+            "it-IT": "Magical Realism",
+            "pt-BR": "Magical Realism",
+            "pt-PT": "Magical Realism",
+            "vi-VN": "Magical Realism",
+            "th-TH": "Magical Realism",
+            "hi-IN": "Magical Realism",
+            "tr-TR": "Magical Realism"
+          },
+          "slug": "magical-realism"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 31,
+          "title": {
+            "en": "Human Portrait",
+            "zh": "人物肖像",
+            "zh-TW": "人物肖像",
+            "ja-JP": "Human Portrait",
+            "ko-KR": "Human Portrait",
+            "es-ES": "Human Portrait",
+            "es-419": "Human Portrait",
+            "de-DE": "Human Portrait",
+            "fr-FR": "Human Portrait",
+            "it-IT": "Human Portrait",
+            "pt-BR": "Human Portrait",
+            "pt-PT": "Human Portrait",
+            "vi-VN": "Human Portrait",
+            "th-TH": "Human Portrait",
+            "hi-IN": "Human Portrait",
+            "tr-TR": "Human Portrait"
+          },
+          "slug": "human-portrait"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 61,
+          "title": {
+            "en": "Directed Editing & Input Control",
+            "zh": "定向编辑与输入控制",
+            "zh-TW": "定向編輯與輸入控制",
+            "ja-JP": "指示編集と入力制御",
+            "ko-KR": "지정 편집 및 입력 제어",
+            "es-ES": "Edición dirigida y control de entrada",
+            "es-419": "Edición dirigida y control de entrada",
+            "de-DE": "Gezielte Bearbeitung und Eingabesteuerung",
+            "fr-FR": "Édition ciblée et contrôle des entrées",
+            "it-IT": "Modifica mirata e controllo degli input",
+            "pt-BR": "Edição direcionada e controle de entrada",
+            "pt-PT": "Edição orientada e controlo de entrada",
+            "vi-VN": "Chỉnh sửa có định hướng và kiểm soát đầu vào",
+            "th-TH": "การแก้ไขแบบกำหนดเป้าหมายและควบคุมอินพุต",
+            "hi-IN": "निर्देशित संपादन और इनपुट नियंत्रण",
+            "tr-TR": "Yönlendirilmiş düzenleme ve girdi kontrolü"
+          },
+          "slug": "directed-editing-input-control"
+        }
+      ]
+    }
   }
 ]
