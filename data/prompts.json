@@ -6248,5 +6248,114 @@
         }
       ]
     }
+  },
+  {
+    "id": 95,
+    "model": "gpt-image-2",
+    "title": "Reference photo transformed into a hand-drawn doodle portrait",
+    "description": "A source-backed GPT Image 2 multi-image edit that preserves the reference pose, wardrobe, recognizable accessories, inset photo, and strict monochrome line-art constraints.",
+    "content": "Transform the uploaded reference photo into a minimalist black-and-white hand-drawn doodle illustration while preserving the person’s pose, hairstyle, clothing silhouette, expression, and recognizable accessories. Use loose ink contours, expressive hatching, small handwritten-style texture marks, and a clean white background. Place the original reference photo as a small rectangular inset in one corner with a thin black border, keeping it clearly separate from the doodle. Use a balanced 1:1 composition with generous negative space and one intentional accent of red only if it exists in the reference. Do not invent extra people, alter the subject’s identity, add readable text, logos, watermarks, gradients, 3D shading, or colored clutter.",
+    "sourceLink": "https://x.com/Taaruk_/status/2084205240543510967",
+    "sourcePublishedAt": "2026-08-03T09:10:26.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HOyVl9xaEAAhKEc.jpg",
+      "https://pbs.twimg.com/media/HOyVmlOa0AAfrve.jpg",
+      "https://pbs.twimg.com/media/HOyVnOkbAAAjc7j.jpg"
+    ],
+    "author": {
+      "name": "Taaruk",
+      "link": "https://x.com/Taaruk_"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 95,
+    "needReferenceImages": true,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2084205240543510967",
+      "prompt_source": "tweet_text_prompt",
+      "model_evidence": "gpt-image-2",
+      "collected_at": "2026-08-03",
+      "retweetCount": 8,
+      "replyCount": 13,
+      "likeCount": 62,
+      "quoteCount": 0,
+      "viewCount": 1661,
+      "bookmarkCount": 37
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 13,
+          "title": {
+            "en": "Reference Image Edit",
+            "zh": "参考图编辑",
+            "zh-TW": "参考圖编辑",
+            "ja-JP": "Reference Image Edit",
+            "ko-KR": "Reference Image Edit",
+            "es-ES": "Reference Image Edit",
+            "es-419": "Reference Image Edit",
+            "de-DE": "Reference Image Edit",
+            "fr-FR": "Reference Image Edit",
+            "it-IT": "Reference Image Edit",
+            "pt-BR": "Reference Image Edit",
+            "pt-PT": "Reference Image Edit",
+            "vi-VN": "Reference Image Edit",
+            "th-TH": "Reference Image Edit",
+            "hi-IN": "Reference Image Edit",
+            "tr-TR": "Reference Image Edit"
+          },
+          "slug": "reference-image-edit"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 31,
+          "title": {
+            "en": "Human Portrait",
+            "zh": "人物肖像",
+            "zh-TW": "人物肖像",
+            "ja-JP": "Human Portrait",
+            "ko-KR": "Human Portrait",
+            "es-ES": "Human Portrait",
+            "es-419": "Human Portrait",
+            "de-DE": "Human Portrait",
+            "fr-FR": "Human Portrait",
+            "it-IT": "Human Portrait",
+            "pt-BR": "Human Portrait",
+            "pt-PT": "Human Portrait",
+            "vi-VN": "Human Portrait",
+            "th-TH": "Human Portrait",
+            "hi-IN": "Human Portrait",
+            "tr-TR": "Human Portrait"
+          },
+          "slug": "human-portrait"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 61,
+          "title": {
+            "en": "Directed Editing & Input Control",
+            "zh": "定向编辑与输入控制",
+            "zh-TW": "定向編輯與輸入控制",
+            "ja-JP": "指示編集と入力制御",
+            "ko-KR": "지정 편집 및 입력 제어",
+            "es-ES": "Edición dirigida y control de entrada",
+            "es-419": "Edición dirigida y control de entrada",
+            "de-DE": "Gezielte Bearbeitung und Eingabesteuerung",
+            "fr-FR": "Édition ciblée et contrôle des entrées",
+            "it-IT": "Modifica mirata e controllo degli input",
+            "pt-BR": "Edição direcionada e controle de entrada",
+            "pt-PT": "Edição orientada e controlo de entrada",
+            "vi-VN": "Chỉnh sửa có định hướng và kiểm soát đầu vào",
+            "th-TH": "การแก้ไขแบบกำหนดเป้าหมายและควบคุมอินพุต",
+            "hi-IN": "निर्देशित संपादन और इनपुट नियंत्रण",
+            "tr-TR": "Yönlendirilmiş düzenleme ve girdi kontrolü"
+          },
+          "slug": "directed-editing-input-control"
+        }
+      ]
+    }
   }
 ]
