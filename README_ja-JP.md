@@ -101,7 +101,7 @@ Project links stay inside this repository; model capability sources point to off
 |--------|-------|
 | プロンプト総数 | **93** |
 | 注目 | **12** |
-| 最終更新 | **2026年8月3日月曜日 13:15:38 UTC** |
+| 最終更新 | **2026年8月3日月曜日 13:26:59 UTC** |
 
 </div>
 
@@ -4895,6 +4895,6 @@ A source-backed image prompt for structured visual communication, readable text,
 **[プロンプトを投稿](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[このリポジトリに Star](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills)**
 
-<sub>この README は自動生成されています。最終更新： 2026-08-03T13:15:38.647Z</sub>
+<sub>この README は自動生成されています。最終更新： 2026-08-03T13:26:59.886Z</sub>
 
 </div>

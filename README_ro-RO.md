@@ -101,7 +101,7 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 |--------|-------|
 | Total prompturi | **93** |
 | Recomandat | **12** |
-| Ultima actualizare | **luni, 3 august 2026 la 13:15:38 UTC** |
+| Ultima actualizare | **luni, 3 august 2026 la 13:27:00 UTC** |
 
 </div>
 
@@ -4895,6 +4895,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Trimite un prompt](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Dă Star acestui repo](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-08-03T13:15:38.838Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-08-03T13:27:00.316Z</sub>
 
 </div>
