@@ -6114,5 +6114,139 @@
         }
       ]
     }
+  },
+  {
+    "id": 94,
+    "model": "gpt-image-2",
+    "title": "Candid Japanese night-street portrait sequence",
+    "description": "A source-backed GPT Image 2 multi-image portrait brief that keeps identity, wardrobe, smartphone optics, and low-light street atmosphere coherent across several scenes.",
+    "content": "Create a candid cinematic night-street portrait sequence of a young woman walking in Japan, captured as if on an iPhone. She has long wavy dark-brown hair with a thin braid, soft makeup, a subtle smile, and looks back toward the camera. She wears a gray sleeveless top, loose light-wash jeans, and a black leather shoulder bag. Show several connected moments: playful hand motion blur near the lens, crouching beside a glossy white subway-tiled wall, and walking while looking over her shoulder. Use a quiet Japanese city street with crosswalks, utility poles, glowing signs, apartment buildings, and soft streetlights. Balance warm and cool ambient light, natural skin tones, shallow depth of field, realistic shadows, slight grain, soft bokeh, smartphone low-light photography, documentary lifestyle aesthetics, an ultra-realistic 35mm-equivalent look, and a vertical 9:16 composition.",
+    "sourceLink": "https://x.com/MissDelulu9/status/2084208041998823543",
+    "sourcePublishedAt": "2026-08-03T09:21:34.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HOyYG8BbAAA6Pc5.jpg",
+      "https://pbs.twimg.com/media/HOyYIOIbQAAngXi.jpg",
+      "https://pbs.twimg.com/media/HOyYJS4aMAAcSZF.jpg",
+      "https://pbs.twimg.com/media/HOyYKU4bgAAbz0Y.jpg"
+    ],
+    "author": {
+      "name": "Eesha",
+      "link": "https://x.com/MissDelulu9"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 94,
+    "needReferenceImages": true,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2084208041998823543",
+      "prompt_source": "tweet_text_prompt",
+      "model_evidence": "gpt-image-2",
+      "collected_at": "2026-08-03",
+      "retweetCount": 8,
+      "replyCount": 39,
+      "likeCount": 66,
+      "quoteCount": 0,
+      "viewCount": 1335,
+      "bookmarkCount": 19
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 13,
+          "title": {
+            "en": "Reference Image Edit",
+            "zh": "参考图编辑",
+            "zh-TW": "参考圖编辑",
+            "ja-JP": "Reference Image Edit",
+            "ko-KR": "Reference Image Edit",
+            "es-ES": "Reference Image Edit",
+            "es-419": "Reference Image Edit",
+            "de-DE": "Reference Image Edit",
+            "fr-FR": "Reference Image Edit",
+            "it-IT": "Reference Image Edit",
+            "pt-BR": "Reference Image Edit",
+            "pt-PT": "Reference Image Edit",
+            "vi-VN": "Reference Image Edit",
+            "th-TH": "Reference Image Edit",
+            "hi-IN": "Reference Image Edit",
+            "tr-TR": "Reference Image Edit"
+          },
+          "slug": "reference-image-edit"
+        }
+      ],
+      "styles": [
+        {
+          "id": 48,
+          "title": {
+            "en": "Magical Realism",
+            "zh": "魔幻现实主义",
+            "zh-TW": "魔幻現實主义",
+            "ja-JP": "Magical Realism",
+            "ko-KR": "Magical Realism",
+            "es-ES": "Magical Realism",
+            "es-419": "Magical Realism",
+            "de-DE": "Magical Realism",
+            "fr-FR": "Magical Realism",
+            "it-IT": "Magical Realism",
+            "pt-BR": "Magical Realism",
+            "pt-PT": "Magical Realism",
+            "vi-VN": "Magical Realism",
+            "th-TH": "Magical Realism",
+            "hi-IN": "Magical Realism",
+            "tr-TR": "Magical Realism"
+          },
+          "slug": "magical-realism"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 31,
+          "title": {
+            "en": "Human Portrait",
+            "zh": "人物肖像",
+            "zh-TW": "人物肖像",
+            "ja-JP": "Human Portrait",
+            "ko-KR": "Human Portrait",
+            "es-ES": "Human Portrait",
+            "es-419": "Human Portrait",
+            "de-DE": "Human Portrait",
+            "fr-FR": "Human Portrait",
+            "it-IT": "Human Portrait",
+            "pt-BR": "Human Portrait",
+            "pt-PT": "Human Portrait",
+            "vi-VN": "Human Portrait",
+            "th-TH": "Human Portrait",
+            "hi-IN": "Human Portrait",
+            "tr-TR": "Human Portrait"
+          },
+          "slug": "human-portrait"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 61,
+          "title": {
+            "en": "Directed Editing & Input Control",
+            "zh": "定向编辑与输入控制",
+            "zh-TW": "定向編輯與輸入控制",
+            "ja-JP": "指示編集と入力制御",
+            "ko-KR": "지정 편집 및 입력 제어",
+            "es-ES": "Edición dirigida y control de entrada",
+            "es-419": "Edición dirigida y control de entrada",
+            "de-DE": "Gezielte Bearbeitung und Eingabesteuerung",
+            "fr-FR": "Édition ciblée et contrôle des entrées",
+            "it-IT": "Modifica mirata e controllo degli input",
+            "pt-BR": "Edição direcionada e controle de entrada",
+            "pt-PT": "Edição orientada e controlo de entrada",
+            "vi-VN": "Chỉnh sửa có định hướng và kiểm soát đầu vào",
+            "th-TH": "การแก้ไขแบบกำหนดเป้าหมายและควบคุมอินพุต",
+            "hi-IN": "निर्देशित संपादन और इनपुट नियंत्रण",
+            "tr-TR": "Yönlendirilmiş düzenleme ve girdi kontrolü"
+          },
+          "slug": "directed-editing-input-control"
+        }
+      ]
+    }
   }
 ]
