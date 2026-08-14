@@ -101,7 +101,7 @@ GPT Image 2 Library workflows देखें, जो prompt craft को produc
 |--------|-------|
 | कुल prompts | **95** |
 | Featured | **12** |
-| अंतिम अपडेट | **शुक्रवार, 14 अगस्त 2026 को 12:57:58 pm UTC बजे** |
+| अंतिम अपडेट | **शुक्रवार, 14 अगस्त 2026 को 4:48:33 pm UTC बजे** |
 
 </div>
 
@@ -4972,6 +4972,6 @@ A source-backed image prompt for structured visual communication, readable text,
 **[Submit a Prompt](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Star history](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills)**
 
-<sub>अंतिम अपडेट: 2026-08-14T12:57:58.625Z</sub>
+<sub>अंतिम अपडेट: 2026-08-14T16:48:33.294Z</sub>
 
 </div>
