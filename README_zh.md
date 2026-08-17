@@ -101,7 +101,7 @@
 |--------|-------|
 | 提示词总数 | **95** |
 | 精选 | **12** |
-| 最后更新 | **2026年8月17日星期一 UTC 12:36:37** |
+| 最后更新 | **2026年8月17日星期一 UTC 16:22:21** |
 
 </div>
 
@@ -4972,6 +4972,6 @@ A source-backed image prompt for structured visual communication, readable text,
 **[提交提示词](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[为仓库点 Star](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills)**
 
-<sub>本 README 自动生成。最后更新： 2026-08-17T12:36:37.016Z</sub>
+<sub>本 README 自动生成。最后更新： 2026-08-17T16:22:21.212Z</sub>
 
 </div>
