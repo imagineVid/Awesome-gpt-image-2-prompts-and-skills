@@ -101,7 +101,7 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 |--------|-------|
 | סך הפרומפטים | **95** |
 | נבחר | **12** |
-| עודכן לאחרונה | **יום שלישי, 18 באוגוסט 2026 בשעה 20:19:06 UTC** |
+| עודכן לאחרונה | **יום רביעי, 19 באוגוסט 2026 בשעה 1:01:24 UTC** |
 
 </div>
 
@@ -4972,6 +4972,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[שליחת פרומפט](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[תנו Star לריפו](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-08-18T20:19:06.643Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-08-19T01:01:24.324Z</sub>
 
 </div>

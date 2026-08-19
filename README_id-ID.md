@@ -101,7 +101,7 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 |--------|-------|
 | Total Prompt | **95** |
 | Unggulan | **12** |
-| Terakhir Diperbarui | **Selasa, 18 Agustus 2026 pukul 20.19.06 UTC** |
+| Terakhir Diperbarui | **Rabu, 19 Agustus 2026 pukul 01.01.24 UTC** |
 
 </div>
 
@@ -4972,6 +4972,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Kirim Prompt](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Beri Star repo ini](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills)**
 
-<sub>README ini dibuat otomatis. Terakhir diperbarui: 2026-08-18T20:19:06.489Z</sub>
+<sub>README ini dibuat otomatis. Terakhir diperbarui: 2026-08-19T01:01:24.211Z</sub>
 
 </div>
