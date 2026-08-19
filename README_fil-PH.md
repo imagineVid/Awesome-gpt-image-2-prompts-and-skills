@@ -101,7 +101,7 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 |--------|-------|
 | Kabuuang Prompts | **95** |
 | Featured | **12** |
-| Huling Update | **Miyerkules, Agosto 19, 2026 nang 4:26:58 PM UTC** |
+| Huling Update | **Miyerkules, Agosto 19, 2026 nang 8:22:02 PM UTC** |
 
 </div>
 
@@ -4972,6 +4972,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Mag-submit ng Prompt](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[I-star ang repo](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-08-19T16:26:58.434Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-08-19T20:22:02.489Z</sub>
 
 </div>
