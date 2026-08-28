@@ -101,7 +101,7 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 |--------|-------|
 | మొత్తం prompts | **95** |
 | ప్రత్యేకం | **12** |
-| చివరి నవీకరణ | **27, ఆగస్టు 2026, గురువారం 6:47:31 PM UTCకి** |
+| చివరి నవీకరణ | **28, ఆగస్టు 2026, శుక్రవారం 4:00:23 AM UTCకి** |
 
 </div>
 
@@ -4972,6 +4972,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Prompt సమర్పించండి](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[ఈ repo కు Star ఇవ్వండి](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-08-27T18:47:31.516Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-08-28T04:00:23.539Z</sub>
 
 </div>

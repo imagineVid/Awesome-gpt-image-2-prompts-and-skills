@@ -101,7 +101,7 @@ Xem các nguồn và ví dụ trong kho này.
 |--------|-------|
 | Tổng số prompt | **95** |
 | Nổi bật | **12** |
-| Cập nhật lần cuối | **lúc 18:47:31 UTC Thứ Năm, 27 tháng 8, 2026** |
+| Cập nhật lần cuối | **lúc 04:00:23 UTC Thứ Sáu, 28 tháng 8, 2026** |
 
 </div>
 
@@ -4972,6 +4972,6 @@ Cách đóng góp
 **[Submit a Prompt](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Lịch sử star](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills)**
 
-<sub>Cập nhật lần cuối: 2026-08-27T18:47:31.109Z</sub>
+<sub>Cập nhật lần cuối: 2026-08-28T04:00:23.123Z</sub>
 
 </div>
