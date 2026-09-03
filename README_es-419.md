@@ -101,7 +101,7 @@ Cambia los argumentos para reutilizar el prompt como una skill creativa compacta
 |--------|-------|
 | Prompts totales | **95** |
 | Destacado | **12** |
-| Última actualización | **jueves, 3 de septiembre de 2026, 8:30:53 a.m. UTC** |
+| Última actualización | **jueves, 3 de septiembre de 2026, 3:43:38 p.m. UTC** |
 
 </div>
 
@@ -4972,6 +4972,6 @@ Publicado bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Enviar un prompt](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Dar star al repo](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills)**
 
-<sub>Este README se genera automáticamente. Última actualización: 2026-09-03T08:30:53.297Z</sub>
+<sub>Este README se genera automáticamente. Última actualización: 2026-09-03T15:43:38.753Z</sub>
 
 </div>
