@@ -101,7 +101,7 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 |--------|-------|
 | மொத்த prompts | **95** |
 | சிறப்பு | **12** |
-| கடைசியாக புதுப்பிக்கப்பட்டது | **வியாழன், 3 செப்டம்பர், 2026 அன்று 7:04:10 PM UTC** |
+| கடைசியாக புதுப்பிக்கப்பட்டது | **வியாழன், 3 செப்டம்பர், 2026 அன்று 10:16:57 PM UTC** |
 
 </div>
 
@@ -4972,6 +4972,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Prompt சமர்ப்பிக்கவும்](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[இந்த repo-க்கு Star கொடுங்கள்](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-09-03T19:04:10.018Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-09-03T22:16:57.597Z</sub>
 
 </div>
