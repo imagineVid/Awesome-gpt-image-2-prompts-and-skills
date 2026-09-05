@@ -101,7 +101,7 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 |--------|-------|
 | Promptteja yhteensä | **95** |
 | Nosto | **12** |
-| Viimeksi päivitetty | **lauantai 5. syyskuuta 2026 klo 2.47.44 UTC** |
+| Viimeksi päivitetty | **lauantai 5. syyskuuta 2026 klo 8.01.05 UTC** |
 
 </div>
 
@@ -4972,6 +4972,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Lähetä promptti](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Anna repolle Star](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-09-05T02:47:44.794Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-09-05T08:01:05.238Z</sub>
 
 </div>
