@@ -101,7 +101,7 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 |--------|-------|
 | Prompts စုစုပေါင်း | **95** |
 | Featured | **12** |
-| နောက်ဆုံး update | **၂၀၂၆ စက်တင်ဘာ ၅ စနေ UTC ၂၁:၅၃:၃၈** |
+| နောက်ဆုံး update | **၂၀၂၆ စက်တင်ဘာ ၆ တနင်္ဂနွေ UTC ၀၂:၄၅:၃၃** |
 
 </div>
 
@@ -4972,6 +4972,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Prompt submit လုပ်ရန်](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[ဒီ repo ကို Star ပေးပါ](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-09-05T21:53:38.027Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-09-06T02:45:33.731Z</sub>
 
 </div>
