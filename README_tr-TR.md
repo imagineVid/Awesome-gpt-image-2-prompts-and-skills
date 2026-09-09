@@ -101,7 +101,7 @@ Bu depodaki kaynak bağlantılarını ve örnekleri inceleyin.
 |--------|-------|
 | Toplam prompt | **95** |
 | Öne çıkan | **12** |
-| Son güncelleme | **9 Eylül 2026 Çarşamba 15:51:39 UTC** |
+| Son güncelleme | **9 Eylül 2026 Çarşamba 19:02:38 UTC** |
 
 </div>
 
@@ -4972,6 +4972,6 @@ Nasıl katkı verilir
 **[Submit a Prompt](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Star geçmişi](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills)**
 
-<sub>Son güncelleme: 2026-09-09T15:51:39.444Z</sub>
+<sub>Son güncelleme: 2026-09-09T19:02:38.688Z</sub>
 
 </div>
