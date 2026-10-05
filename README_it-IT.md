@@ -101,7 +101,7 @@ Consulta fonti ed esempi raccolti in questo repository.
 |--------|-------|
 | Prompt totali | **95** |
 | In evidenza | **12** |
-| Ultimo aggiornamento | **lunedì 5 ottobre 2026 alle ore 11:08:54 UTC** |
+| Ultimo aggiornamento | **lunedì 5 ottobre 2026 alle ore 20:09:49 UTC** |
 
 </div>
 
@@ -4972,6 +4972,6 @@ Come contribuire
 **[Submit a Prompt](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Storico star](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills)**
 
-<sub>Ultimo aggiornamento: 2026-10-05T11:08:54.779Z</sub>
+<sub>Ultimo aggiornamento: 2026-10-05T20:09:49.617Z</sub>
 
 </div>
