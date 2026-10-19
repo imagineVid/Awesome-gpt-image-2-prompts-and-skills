@@ -101,7 +101,7 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 |--------|-------|
 | Jumlah Prompt | **95** |
 | Pilihan | **12** |
-| Kemas Kini Terakhir | **Isnin, 19 Oktober 2026 pada 9:33:29 PG UTC** |
+| Kemas Kini Terakhir | **Isnin, 19 Oktober 2026 pada 6:17:18 PTG UTC** |
 
 </div>
 
@@ -4972,6 +4972,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Hantar Prompt](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Star repo ini](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-10-19T09:33:29.906Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-10-19T18:17:18.174Z</sub>
 
 </div>
