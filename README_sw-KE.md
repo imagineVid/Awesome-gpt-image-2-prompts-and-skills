@@ -101,7 +101,7 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 |--------|-------|
 | Jumla ya Prompt | **95** |
 | Iliyochaguliwa | **12** |
-| Ilisasishwa Mwisho | **Alhamisi, 12 Novemba 2026 saa 16:31:58 UTC** |
+| Ilisasishwa Mwisho | **Ijumaa, 13 Novemba 2026 saa 00:51:47 UTC** |
 
 </div>
 
@@ -4972,6 +4972,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Wasilisha Prompt](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Weka Star kwenye repo](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-11-12T16:31:58.531Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-11-13T00:51:47.867Z</sub>
 
 </div>
