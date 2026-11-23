@@ -78,7 +78,7 @@ Project links stay inside this repository; model capability sources point to off
 - **Output Controls** - Where supported, adjust size, quality, output format, and compression
 - **Repository Scope** - This repo curates reusable prompts and public examples; it is not official OpenAI documentation or a model benchmark
 
-**Project resources:** [OpenAI image generation guide](https://developers.openai.com/api/docs/guides/image-generation) · [OpenAI Image API reference](https://developers.openai.com/api/reference/resources/images) · [GPT Image 2 prompt collection](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills)
+**Project resources:** [OpenAI image generation guide](https://developers.openai.com/api/docs/guides/image-generation) · [OpenAI Image API reference](https://developers.openai.com/api/reference/resources/images) · [Official GPT Image 2 site](https://gptimage2.asia/) · [GPT Image 2 prompt collection](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills)
 
 ### Prompt Skill Arguments
 
